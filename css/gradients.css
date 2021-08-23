@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+}
+
+p {
+    color: red;
+}
+
+.box1 {
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+    background: linear-gradient(45deg, #CCFFFF, #FFCCCC)
+}
