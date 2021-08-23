@@ -6,10 +6,18 @@ p {
     color: red;
 }
 
-.box1 {
+.box {
     border-radius: 20px;
     width: 200px;
     height: 200px;
     margin: 50px auto;
-    background: linear-gradient(45deg, #CCFFFF, #FFCCCC)
+}
+#box1 {
+    background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
+}
+#box2 {
+    background: linear-gradient(45deg, #FFFFCC, #CCCCFF);
+}
+#box3 {
+    background: linear-gradient(45deg, #99FF99, #FF99FF);
 }
